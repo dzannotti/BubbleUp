@@ -9,7 +9,7 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
-	"go.dalton.dog/bubbleup"
+	"github.com/dzannotti/bubbleup"
 	"golang.org/x/term"
 )
 
